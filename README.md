@@ -19,3 +19,6 @@ This project uses Graph Neural Networks (GraphSAGE) to predict artist popularity
 ```bash
 pip install -r requirements.txt
 python artist_gnn.py
+# Torch-geometric may need special install steps depending on system
+pip install torch
+pip install torch-geometrics
