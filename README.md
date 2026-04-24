@@ -15,6 +15,8 @@ This project uses Graph Neural Networks (GraphSAGE) to predict artist popularity
 - ~96% accuracy
 - Clear clustering in embedding space
 
+## Testing
+- Can change what genre in the load_and_filter() and then in the main() you can edit the parameters to run simulation
 ## How to Run
 ```bash
 pip install -r requirements.txt
